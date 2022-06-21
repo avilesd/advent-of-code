@@ -65,7 +65,6 @@ def main():
              + result_string.count(']') * 57\
              + result_string.count('}') * 1197\
              + result_string.count('>') * 25137
-    # print(result_string)
     print(answer)
 
 
